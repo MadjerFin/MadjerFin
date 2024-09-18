@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Sou um estudante de Analise e Desenvolvimento de sistemas buscando experiência e aprendizado na área de tecnologia.
+Sou um estudante na FIAP no curso de Analise e Desenvolvimento de sistemas buscando experiências e aprendizados na área de tecnologia.
 
 ## Habilidades
 
