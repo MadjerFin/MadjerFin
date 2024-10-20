@@ -26,10 +26,6 @@ Vamos nos conectar e colaborar!
 
 
 #
- <br>
- <div style="display: inline-block">
-  <a href="https://github.com/MadjerFin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadjerFin&layout=compact&langs_count=7&theme=shades-of-purple"/>
-</div>
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadjerFin&layout=compact&langs_count=7&theme=shades-of-purple)
  
 
