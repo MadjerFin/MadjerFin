@@ -23,3 +23,13 @@ Sinta-se à vontade para entrar em contato comigo:
 - **LinkedIn**: https://www.linkedin.com/in/madjer-finamor-51196117b/
 
 Vamos nos conectar e colaborar!
+
+
+#
+ <br>
+ <div style="display: inline_block">
+  <a href="https://github.com/MadjerFin">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadjerFin&layout=compact&langs_count=7&theme=shades-of-purple"/>
+</div>
+ 
+
