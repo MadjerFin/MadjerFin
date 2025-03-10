@@ -26,7 +26,8 @@ Vamos nos conectar e colaborar!
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MadjerFin&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadjerFin&layout=compact&theme=radical)
+
 
 
 
