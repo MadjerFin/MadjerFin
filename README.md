@@ -12,7 +12,7 @@ Sou um estudante na FIAP no curso de Analise e Desenvolvimento de sistemas busca
 
 ## Projetos em Destaque
 
-- **Challenge para a empresa CCR**: trabalhando em formas de automatizar as linhas 9 e 10 de trem de São Paulo
+- **Challenge para a empresa CCR**: trabalhando em formas de automatizar as linhas 9 e 8 de trem de São Paulo
 
 
 ## Contato
