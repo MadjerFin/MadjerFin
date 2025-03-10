@@ -6,7 +6,7 @@ Sou um estudante na FIAP no curso de Analise e Desenvolvimento de sistemas busca
 
 ## Habilidades
 
-- **Linguagens de Programação**: Python, Html & Css, Java
+- **Linguagens de Programação**: Python, Html & Css, Java, Javascript, Nodejs
 - **Ferramentas e Tecnologias**: Git, Inteligencia Aritificial
 - **Outras Habilidades**: Design, Marketing, Engenharia, Trabalho em equipe
 
