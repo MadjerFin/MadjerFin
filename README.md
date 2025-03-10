@@ -28,6 +28,7 @@ Vamos nos conectar e colaborar!
 
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadjerFin&layout=compact&theme=radical)
 
 
 
